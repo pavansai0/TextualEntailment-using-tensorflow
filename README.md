@@ -1,1 +1,1 @@
-# TextualEntailmen-using-tensorflow
+# TextualEntailment-using-tensorflow
